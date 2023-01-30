@@ -158,7 +158,7 @@
 /* Media Queries */
 
 
-@media (max-width : 375px){
+/* @media (max-width : 375px){
 
     .input-field-for-address{
         position: absolute;
@@ -177,7 +177,7 @@
         width: 80%;
         padding: 2%;
     }
-}
+} */
 
 @media screen and (max-width : 900px){
    
@@ -220,7 +220,7 @@
     }
     .input-field-for-address{
         position: absolute;
-        top: 30%;
+        top: 40%;
         left: 5%;
         border: none;
         text-align: left;
@@ -230,7 +230,7 @@
     }
     .btn{
         position: absolute;
-        top: 38%;
+        top: 50%;
         left: 5%;
         width: 80%;
         padding: 2%;
